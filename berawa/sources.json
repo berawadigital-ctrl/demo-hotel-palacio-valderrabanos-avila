@@ -1,0 +1,53 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelpalaciovalderrabanos.com/",
+ "read_at": "2026-11-02T09:07:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/",
+   "sha256": "b0dd0575f164404ba12f182913cc1deb943a0b3c246e761d0d2520ea07a0cf76",
+   "chars": 4685
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/avila.html",
+   "sha256": "25eb872360ee7612243b9dea3063f512dd171070d8fbe0136036b2296cf19ee6",
+   "chars": 8931
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/contacto-y-localizacion.html",
+   "sha256": "0754dc4b2eac6363f8ead835581e2784714f4d5352c9fde83e1a8da6b90d075e",
+   "chars": 3752
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/es/?sectionContent=condiciones-de-reserva.html",
+   "sha256": "a1212f9750a46e82c4d4388eca37276eff795c4231a7913dac26eb5f1a83d938",
+   "chars": 13797
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/eventos.html",
+   "sha256": "966b4ce0fb98eccf17faafa54b1251a6ca0b2b2e7770c19bc0983fa485c72f87",
+   "chars": 3393
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+   "sha256": "83f8dec9d9199a670bae010c71e2bf5f64d159594e3f59f3da14aac148a7a815",
+   "chars": 10699
+  },
+  {
+   "url": "https://www.hotelpalaciovalderrabanos.com/servicios.html",
+   "sha256": "7262314314185ab9fd00a01e5a3476d081eb6e71788800fd6a649b47859c2208",
+   "chars": 2315
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelpalaciovalderrabanos.com/desayunos.html",
+  "https://www.hotelpalaciovalderrabanos.com/en/",
+  "https://www.hotelpalaciovalderrabanos.com/es/?sectionContent=aviso-legal.html",
+  "https://www.hotelpalaciovalderrabanos.com/es/?sectionContent=politica-de-privacidad.html",
+  "https://www.hotelpalaciovalderrabanos.com/galeria.html",
+  "https://www.hotelpalaciovalderrabanos.com/mi-reserva.html",
+  "https://www.hotelpalaciovalderrabanos.com/promociones.html",
+  "https://www.hotelpalaciovalderrabanos.com/seguro.html"
+ ]
+}

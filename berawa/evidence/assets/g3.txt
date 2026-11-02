@@ -1,0 +1,4 @@
+Ilustracion generada por codigo (make_art.py), tipo 'waves', semilla 5533, paleta ['#f1ede6', '#faf8f3', '#6e5430', '#545b63', '#25292d'].
+Sin fotografias ni logotipos: no muestra el establecimiento.
+Hash de los parametros: 68c2bd00199014d8c55ed90bd7b33ed5c794e4050cbe3b3e00c3da12888c8b7a
+Licencia: Ilustracion propia de Berawa Solutions, generada por berawa/build/make_art.py (Pillow): sin fotos, logos ni textos de terceros; uso libre para esta propuesta.

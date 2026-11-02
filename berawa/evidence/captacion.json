@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-palacio-valderrabanos-avila",
+ "maps": {
+  "fecha": "2026-10-29T14:46:16+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Palacio Valderrábanos",
+  "nota": 4.4,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Palacio+Valderr%C3%A1banos/@40.6557102,-4.6981046,17z/data=!4m9!3m8!1s0xd40f31b60dca8ff:0x4bf7570deb86aed7!5m2!4m1!1i2!8m2!3d40.6557102!4d-4.6981046!16s%2Fg%2F11b74j_zwc",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T14:46:16+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "BELTRAN MENESES SL",
+  "cif": "B83965061",
+  "fuente": "https://www.hotelpalaciovalderrabanos.com/es/?sectionContent=aviso-legal.html",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal hotelpalaciovalderrabanos.com: Beltran Meneses SL (B83965061); la web solo presenta el Palacio de Valderrábanos"
+ }
+}
