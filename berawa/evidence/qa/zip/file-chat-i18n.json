@@ -1,0 +1,421 @@
+{
+ "url": "file:///tmp/zip-hotel-palacio-valderrabanos-avila/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 80 habitaciones: dobles (Plus, Clásica, Económica y Superior, algunas con cama king size y vistas a la catedral), triples, familiares "
+    },
+    {
+     "q": "¿Tenéis suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Hay tres suites distintas, «Duque Suarez», «Teresa de Jesús» y «Torreón», de corte clásico y con vistas a la catedral, con zona de estar, do"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Las habitaciones disponen de TV vía satélite, minibar, caja fuerte, aire acondicionado y calefacción, y wifi gratuito; los baños tienen seca"
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Como norma general, las habitaciones se pueden usar desde las 14 horas del día de llegada y deben quedar libres a las 12 horas del día de sa"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Los clientes pueden llegar en coche hasta la puerta para la entrada y la salida y estacionar 20 minutos para las maletas, facilitando la mat"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Está en la Plaza de la Catedral, 9, 05001 Ávila, a 15 metros de la Catedral y a 400 metros del Convento y Museo de Santa Teresa."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, el hotel es pet friendly y admite mascotas; tiene un reglamento de mascotas, así que consúltalo al reservar."
+    },
+    {
+     "q": "¿Tenéis salones para eventos?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Tiene tres salones con luz natural, wifi y material audiovisual para reuniones, cursos, presentaciones, cócteles o banquetes. Información: d"
+    },
+    {
+     "q": "¿Qué ver en Ávila?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Muy cerca están la Catedral, la Muralla de Ávila, la basílica de San Vicente y el Convento de Santa Teresa; el Real Monasterio de Santo Tomá"
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: +34 920 211 023. Correo: reservas@hotelpalaciovalderrabanos.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Hay cafetería?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: La Crestería y el Café del Hotel, donde tomar buenas bebidas con vistas a la catedral."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Admitís mascotas?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat3"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 80 rooms: doubles (Plus, Classic, Economy and Superior, some with a king-size bed and cathedral views), triples, family rooms and sui"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "There are three different suites, «Duque Suarez», «Teresa de Jesús» and «Torreón», classic in style with cathedral views, a sitting area, tw"
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Rooms have satellite TV, minibar, safe, air conditioning and heating, and free wifi; bathrooms have a hairdryer and toiletries."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "As a general rule, rooms are available from 14:00 on the arrival day and must be vacated by 12:00 on the departure day, unless otherwise agr"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Guests can drive up to the door on arrival and departure and stop for 20 minutes for luggage, giving their number plate at reception. The ne"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It is at Plaza de la Catedral, 9, 05001 Ávila, 15 metres from the Cathedral and 400 metres from the Convent and Museum of Saint Teresa."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, the hotel is pet friendly and allows pets; there are pet rules, so check them when booking."
+    },
+    {
+     "q": "Do you have event rooms?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It has three rooms with natural light, wifi and audiovisual equipment for meetings, courses, presentations, cocktails or banquets. Informati"
+    },
+    {
+     "q": "What to see in Ávila?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Close by are the Cathedral, the Walls of Ávila, the Basilica of San Vicente and the Convent of Saint Teresa; the Royal Monastery of Santo To"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: +34 920 211 023. Email: reservas@hotelpalaciovalderrabanos.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Is there a café?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: La Crestería and the Hotel Café, where you can enjoy good drinks with views of the cathedral."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Do you allow pets?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 80 chambres : doubles (Plus, Classique, Économique et Supérieure, certaines avec lit king size et vue sur la cathédrale), triples,"
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Il y a trois suites différentes, «Duque Suarez», «Teresa de Jesús» et «Torreón», de style classique avec vue sur la cathédrale, coin salon, "
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Les chambres disposent de TV satellite, minibar, coffre-fort, climatisation et chauffage, et wifi gratuit ; les salles de bains ont sèche-ch"
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "En règle générale, les chambres sont disponibles à partir de 14 h le jour d’arrivée et doivent être libérées à 12 h le jour du départ, sauf "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Les clients peuvent accéder en voiture jusqu’à la porte à l’arrivée et au départ et stationner 20 minutes pour les bagages, en donnant leur "
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Plaza de la Catedral, 9, 05001 Ávila, à 15 mètres de la cathédrale et à 400 mètres du couvent et musée de Sainte-Thérèse."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel est pet friendly et accepte les animaux ; il existe un règlement pour les animaux, à vérifier lors de la réservation."
+    },
+    {
+     "q": "Avez-vous des salles pour événements ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il dispose de trois salles à la lumière naturelle, avec wifi et matériel audiovisuel pour réunions, formations, présentations, cocktails ou "
+    },
+    {
+     "q": "Que voir à Ávila ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Tout près se trouvent la cathédrale, les remparts d’Ávila, la basilique San Vicente et le couvent de Sainte-Thérèse ; le monastère royal de "
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : +34 920 211 023. E-mail : reservas@hotelpalaciovalderrabanos.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Y a-t-il un café ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : La Crestería et le Café de l’hôtel, pour de bonnes boissons avec vue sur la cathédrale."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "Acceptez-vous les animaux ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 80 Zimmer: Doppelzimmer (Plus, Klassik, Economy und Superior, einige mit Kingsize-Bett und Blick auf die Kathedrale), Dreibett-, Fami"
+    },
+    {
+     "q": "Haben Sie Suiten?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Es gibt drei verschiedene Suiten, «Duque Suarez», «Teresa de Jesús» und «Torreón», im klassischen Stil mit Blick auf die Kathedrale, Sitzber"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Zimmer haben Satelliten-TV, Minibar, Safe, Klimaanlage und Heizung sowie kostenloses WLAN; die Bäder haben Föhn und Pflegeartikel."
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "In der Regel stehen die Zimmer ab 14 Uhr am Anreisetag zur Verfügung und müssen am Abreisetag bis 12 Uhr geräumt sein, sofern nichts anderes"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Gäste können bei An- und Abreise bis vor die Tür fahren und 20 Minuten fürs Gepäck halten; das Kennzeichen ist an der Rezeption anzugeben. D"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Das Hotel liegt an der Plaza de la Catedral, 9, 05001 Ávila, 15 Meter von der Kathedrale und 400 Meter vom Kloster und Museum der heiligen T"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt wede"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt wede"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ja, das Hotel ist haustierfreundlich und erlaubt Haustiere; es gibt eine Haustierordnung, bitte bei der Buchung nachfragen."
+    },
+    {
+     "q": "Haben Sie Veranstaltungssäle?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es gibt drei Säle mit Tageslicht, WLAN und AV-Technik für Tagungen, Kurse, Präsentationen, Cocktails oder Bankette. Info: direccion@hotelpal"
+    },
+    {
+     "q": "Was kann man in Ávila besichtigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ganz in der Nähe liegen die Kathedrale, die Stadtmauer von Ávila, die Basilika San Vicente und das Kloster der heiligen Teresa; das Königlic"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 920 211 023. E-Mail: reservas@hotelpalaciovalderrabanos.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Gibt es ein Café?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja: La Crestería und das Hotelcafé, mit guten Getränken und Blick auf die Kathedrale."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 920 211 023 · reservas@hotelpalaciovalderrabanos.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Sind Haustiere erlaubt?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
