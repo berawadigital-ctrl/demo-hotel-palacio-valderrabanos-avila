@@ -1,0 +1,571 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-palacio-valderrabanos-avila",
+ "source_site": "https://www.hotelpalaciovalderrabanos.com/",
+ "source_read_at": "2026-11-02T09:07:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitaciones",
+     "doble",
+     "triple",
+     "familiar"
+    ],
+    "en": [
+     "which rooms",
+     "double",
+     "triple",
+     "family"
+    ],
+    "fr": [
+     "quelles chambres",
+     "double",
+     "triple",
+     "familiale"
+    ],
+    "de": [
+     "welche zimmer",
+     "doppel",
+     "dreibett",
+     "familie"
+    ]
+   },
+   "a": {
+    "es": "Tiene 80 habitaciones: dobles (Plus, Clásica, Económica y Superior, algunas con cama king size y vistas a la catedral), triples, familiares y suites.",
+    "en": "It has 80 rooms: doubles (Plus, Classic, Economy and Superior, some with a king-size bed and cathedral views), triples, family rooms and suites.",
+    "fr": "Il compte 80 chambres : doubles (Plus, Classique, Économique et Supérieure, certaines avec lit king size et vue sur la cathédrale), triples, familiales et suites.",
+    "de": "Es hat 80 Zimmer: Doppelzimmer (Plus, Klassik, Economy und Superior, einige mit Kingsize-Bett und Blick auf die Kathedrale), Dreibett-, Familienzimmer und Suiten."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "El Hotel Palacio Valderrábanos cuenta con 80 espaciosas y confortables habitaciones"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "Habitación Doble Plus Vista catedral King Size"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "Habitación Triple Reservar Ver más Habitación Triple Superior Reservar Ver más Habitación Familiar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "suites",
+   "keys": {
+    "es": [
+     "suite"
+    ],
+    "en": [
+     "suite"
+    ],
+    "fr": [
+     "suite"
+    ],
+    "de": [
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "Hay tres suites distintas, «Duque Suarez», «Teresa de Jesús» y «Torreón», de corte clásico y con vistas a la catedral, con zona de estar, dos TV de pantalla plana, sofá y cafetera. También hay Suite Dúplex Torreón y Suite Junior.",
+    "en": "There are three different suites, «Duque Suarez», «Teresa de Jesús» and «Torreón», classic in style with cathedral views, a sitting area, two flat-screen TVs, sofa and coffee maker. There are also the Suite Dúplex Torreón and a Junior Suite.",
+    "fr": "Il y a trois suites différentes, «Duque Suarez», «Teresa de Jesús» et «Torreón», de style classique avec vue sur la cathédrale, coin salon, deux TV à écran plat, canapé et cafetière. Il y a aussi la Suite Dúplex Torreón et une Suite Junior.",
+    "de": "Es gibt drei verschiedene Suiten, «Duque Suarez», «Teresa de Jesús» und «Torreón», im klassischen Stil mit Blick auf die Kathedrale, Sitzbereich, zwei Flachbildfernsehern, Sofa und Kaffeemaschine. Außerdem die Suite Dúplex Torreón und eine Junior-Suite."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "El hotel cuenta con tres Suites distintas: «Duque Suarez», «Teresa de Jesús» y «Torreón»"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "La Suite, es un espacio, de corte clásico con vistas a la catedral de Ávila donde encontrarás una zona de estar (con o sin sofa cama), 2 TV de pantalla plana, sofá, cafetera"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "Suite Dúplex Torreón"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "television",
+     "aire acondicionado",
+     "minibar",
+     "caja fuerte",
+     "tienen las habitaciones"
+    ],
+    "en": [
+     "wifi",
+     " tv",
+     "air conditioning",
+     "minibar",
+     "safe",
+     "include"
+    ],
+    "fr": [
+     "wifi",
+     "television",
+     "climatisation",
+     "minibar",
+     "coffre",
+     "comprennent"
+    ],
+    "de": [
+     "wlan",
+     "fernseh",
+     "klimaanlage",
+     "minibar",
+     "safe",
+     "bieten die zimmer"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones disponen de TV vía satélite, minibar, caja fuerte, aire acondicionado y calefacción, y wifi gratuito; los baños tienen secador de pelo y artículos de aseo.",
+    "en": "Rooms have satellite TV, minibar, safe, air conditioning and heating, and free wifi; bathrooms have a hairdryer and toiletries.",
+    "fr": "Les chambres disposent de TV satellite, minibar, coffre-fort, climatisation et chauffage, et wifi gratuit ; les salles de bains ont sèche-cheveux et produits d’accueil.",
+    "de": "Die Zimmer haben Satelliten-TV, Minibar, Safe, Klimaanlage und Heizung sowie kostenloses WLAN; die Bäder haben Föhn und Pflegeartikel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "Las habitaciones disponen de TV vía satélite, minibar, caja fuerte, aire acondicionado y calefacción. Los baños cuentan con secador de pelo y artículos de aseo"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "ofreciendo conexión Wi-Fi gratuita por todo el edificio"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "hora",
+     "entrada",
+     "salida",
+     "check"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "check out",
+     "what time"
+    ],
+    "fr": [
+     "heure",
+     "arrivee",
+     "depart"
+    ],
+    "de": [
+     "check-in",
+     "check in",
+     "check-out",
+     "anreise",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "Como norma general, las habitaciones se pueden usar desde las 14 horas del día de llegada y deben quedar libres a las 12 horas del día de salida, salvo que se pacte otra cosa con el hotel.",
+    "en": "As a general rule, rooms are available from 14:00 on the arrival day and must be vacated by 12:00 on the departure day, unless otherwise agreed with the hotel.",
+    "fr": "En règle générale, les chambres sont disponibles à partir de 14 h le jour d’arrivée et doivent être libérées à 12 h le jour du départ, sauf accord contraire avec l’hôtel.",
+    "de": "In der Regel stehen die Zimmer ab 14 Uhr am Anreisetag zur Verfügung und müssen am Abreisetag bis 12 Uhr geräumt sein, sofern nichts anderes mit dem Hotel vereinbart ist."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/es/?sectionContent=condiciones-de-reserva.html",
+     "quote": "las habitaciones podrán ser utilizadas a partir de las 14 horas del día de llegada y deberán quedar libres a las 12 horas del día de salida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Los clientes pueden llegar en coche hasta la puerta para la entrada y la salida y estacionar 20 minutos para las maletas, facilitando la matrícula en recepción. El parking más cercano que indica su web es el Parking El Grande.",
+    "en": "Guests can drive up to the door on arrival and departure and stop for 20 minutes for luggage, giving their number plate at reception. The nearest car park listed on their website is Parking El Grande.",
+    "fr": "Les clients peuvent accéder en voiture jusqu’à la porte à l’arrivée et au départ et stationner 20 minutes pour les bagages, en donnant leur immatriculation à la réception. Le parking le plus proche indiqué sur leur site est le Parking El Grande.",
+    "de": "Gäste können bei An- und Abreise bis vor die Tür fahren und 20 Minuten fürs Gepäck halten; das Kennzeichen ist an der Rezeption anzugeben. Das nächste Parkhaus laut Website ist der Parking El Grande."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/contacto-y-localizacion.html",
+     "quote": "clientes de hotel pueden acceder y estacionar su vehículo durante 20 minutos para hacer la entrada y para recoger las maletas el día de salida"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/contacto-y-localizacion.html",
+     "quote": "Parking más cercano: https://www.empark.com/es/es/parking/avila/parking-el-grande-avila/"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "venir"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en la Plaza de la Catedral, 9, 05001 Ávila, a 15 metros de la Catedral y a 400 metros del Convento y Museo de Santa Teresa.",
+    "en": "It is at Plaza de la Catedral, 9, 05001 Ávila, 15 metres from the Cathedral and 400 metres from the Convent and Museum of Saint Teresa.",
+    "fr": "L’hôtel se trouve Plaza de la Catedral, 9, 05001 Ávila, à 15 mètres de la cathédrale et à 400 mètres du couvent et musée de Sainte-Thérèse.",
+    "de": "Das Hotel liegt an der Plaza de la Catedral, 9, 05001 Ávila, 15 Meter von der Kathedrale und 400 Meter vom Kloster und Museum der heiligen Teresa entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "Plaza de la Catedral, 9 05001 Ávila, España"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "El Palacio se encuentra a 15 metros de la Catedral, a 400 metros del Convento y Museo de Santa Teresa"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "Reservas Reserva ahora RESERVA AL MEJOR PRECIO"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien"
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "tiere"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel es pet friendly y admite mascotas; tiene un reglamento de mascotas, así que consúltalo al reservar.",
+    "en": "Yes, the hotel is pet friendly and allows pets; there are pet rules, so check them when booking.",
+    "fr": "Oui, l’hôtel est pet friendly et accepte les animaux ; il existe un règlement pour les animaux, à vérifier lors de la réservation.",
+    "de": "Ja, das Hotel ist haustierfreundlich und erlaubt Haustiere; es gibt eine Haustierordnung, bitte bei der Buchung nachfragen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "Reglamento de mascotas Somos Pet Friendly"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/servicios.html",
+     "quote": "Admite mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "evento",
+     "salon",
+     "reunion",
+     "boda",
+     "banquete"
+    ],
+    "en": [
+     "event room",
+     "event",
+     "meeting",
+     "wedding",
+     "banquet"
+    ],
+    "fr": [
+     "evenement",
+     "salle",
+     "reunion",
+     "mariage",
+     "banquet"
+    ],
+    "de": [
+     "veranstaltung",
+     "tagung",
+     "hochzeit",
+     "bankett",
+     "saal"
+    ]
+   },
+   "a": {
+    "es": "Tiene tres salones con luz natural, wifi y material audiovisual para reuniones, cursos, presentaciones, cócteles o banquetes. Información: direccion@hotelpalaciovalderrabanos.com.",
+    "en": "It has three rooms with natural light, wifi and audiovisual equipment for meetings, courses, presentations, cocktails or banquets. Information: direccion@hotelpalaciovalderrabanos.com.",
+    "fr": "Il dispose de trois salles à la lumière naturelle, avec wifi et matériel audiovisuel pour réunions, formations, présentations, cocktails ou banquets. Informations : direccion@hotelpalaciovalderrabanos.com.",
+    "de": "Es gibt drei Säle mit Tageslicht, WLAN und AV-Technik für Tagungen, Kurse, Präsentationen, Cocktails oder Bankette. Info: direccion@hotelpalaciovalderrabanos.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/eventos.html",
+     "quote": "Disponemos de tres elegantes salones con luz natural, con conexión Wifi, material audiovisual"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/eventos.html",
+     "quote": "Para más información: direccion@hotelpalaciovalderrabanos.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "que ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "muralla",
+     "monumento"
+    ],
+    "en": [
+     "what to see",
+     "visit",
+     "walls",
+     "sights"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "remparts",
+     "monument"
+    ],
+    "de": [
+     "besichtig",
+     "sehenswurd",
+     "stadtmauer"
+    ]
+   },
+   "a": {
+    "es": "Muy cerca están la Catedral, la Muralla de Ávila, la basílica de San Vicente y el Convento de Santa Teresa; el Real Monasterio de Santo Tomás queda a 15 minutos a pie.",
+    "en": "Close by are the Cathedral, the Walls of Ávila, the Basilica of San Vicente and the Convent of Saint Teresa; the Royal Monastery of Santo Tomás is a 15-minute walk.",
+    "fr": "Tout près se trouvent la cathédrale, les remparts d’Ávila, la basilique San Vicente et le couvent de Sainte-Thérèse ; le monastère royal de Santo Tomás est à 15 minutes à pied.",
+    "de": "Ganz in der Nähe liegen die Kathedrale, die Stadtmauer von Ávila, die Basilika San Vicente und das Kloster der heiligen Teresa; das Königliche Kloster Santo Tomás ist 15 Gehminuten entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/avila.html",
+     "quote": "Catedral de Ávila"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/avila.html",
+     "quote": "Muralla de Ávila"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/avila.html",
+     "quote": "San Vicente de Ávila"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/avila.html",
+     "quote": "Convento de Santa Teresa de Jesus"
+    },
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/habitaciones.html",
+     "quote": "15 minutos a pie del Real Monasterio de Santo Tomás"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: +34 920 211 023. Correo: reservas@hotelpalaciovalderrabanos.com.",
+    "en": "Phone: +34 920 211 023. Email: reservas@hotelpalaciovalderrabanos.com.",
+    "fr": "Téléphone : +34 920 211 023. E-mail : reservas@hotelpalaciovalderrabanos.com.",
+    "de": "Telefon: +34 920 211 023. E-Mail: reservas@hotelpalaciovalderrabanos.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "reservas@hotelpalaciovalderrabanos.com +34 920 211 023"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "cafe",
+   "keys": {
+    "es": [
+     "cafeteria",
+     "cafe del",
+     "beber",
+     "crester"
+    ],
+    "en": [
+     "cafe",
+     "drink",
+     "crester"
+    ],
+    "fr": [
+     "cafe",
+     "boire",
+     "verre",
+     "crester"
+    ],
+    "de": [
+     "cafe",
+     "trinken",
+     "crester"
+    ]
+   },
+   "a": {
+    "es": "Sí: La Crestería y el Café del Hotel, donde tomar buenas bebidas con vistas a la catedral.",
+    "en": "Yes: La Crestería and the Hotel Café, where you can enjoy good drinks with views of the cathedral.",
+    "fr": "Oui : La Crestería et le Café de l’hôtel, pour de bonnes boissons avec vue sur la cathédrale.",
+    "de": "Ja: La Crestería und das Hotelcafé, mit guten Getränken und Blick auf die Kathedrale."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelpalaciovalderrabanos.com/",
+     "quote": "La Crestería y el Café del Hotel, dónde se puede disfrutar buenas bebidas con vistas a la Catedral"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
